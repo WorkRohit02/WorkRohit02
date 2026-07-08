@@ -98,28 +98,28 @@ Building scalable backend applications with clean architecture and secure REST A
 ### 🛒 E-Commerce Backend
 A complete multi-vendor backend built using **Node.js, Express and MongoDB**. Includes secure JWT authentication, role-based access, seller & buyer modules, product management, cart, wishlist, orders, reviews, email verification and Razorpay payment integration.
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/ecommerce-backend
+🔗 **Repository:** https://github.com/WorkRohit02/E-Commerce-Backend
 
 ---
 
 ### 🎵 Spotify Backend
 REST API inspired by Spotify featuring user authentication, playlists, albums, artists, favourites, search functionality and scalable backend architecture.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/spotify-backend
+🔗 Repository: https://github.com/WorkRohit02/Spotify_Backend
 
 ---
 
 ### 💬 Talker
 Real-time chat backend supporting authentication, private messaging, Socket.IO communication and secure API endpoints.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/talker
+🔗 Repository: https://github.com/WorkRohit02/talker-backend
 
 ---
 
 ### 📸 StreetLink
 A location-based marketplace that helps customers discover nearby street vendors. Built with secure authentication, vendor & customer modules, product listings, image uploads, order management, payment integration, and role-based access control.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/streetlink
+🔗 Repository: https://github.com/WorkRohit02/Street_Vendor.git
 
 ---
 
