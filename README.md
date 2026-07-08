@@ -117,7 +117,7 @@ Real-time chat backend supporting authentication, private messaging, Socket.IO c
 ---
 
 ### 📸 StreetLink
-A social media backend supporting user profiles, posts, likes, comments, follow/unfollow functionality and authentication.
+A location-based marketplace that helps customers discover nearby street vendors. Built with secure authentication, vendor & customer modules, product listings, image uploads, order management, payment integration, and role-based access control.
 
 🔗 Repository: https://github.com/YOUR_USERNAME/streetlink
 
