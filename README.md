@@ -1,210 +1,258 @@
 <div align="center">
 
-# Hi 👋, I'm Rohit Bansal
-
-### Backend Developer | Node.js | Express.js | MongoDB | REST APIs
+## Hi 👋 I'm Rohit Bansal
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+REST+APIs;Node.js+%7C+Express.js+%7C+MongoDB;Learning+DevOps+%26+Microservices;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;Building+Secure+REST+APIs;Authentication+%7C+Authorization;Socket.IO+Real-Time+Applications;Payment+Gateway+Integration;Turning+Ideas+Into+Scalable+Backend+Solutions" alt="Typing SVG"/>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
+Building scalable backend applications with clean architecture and secure REST APIs.
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 🚀 Backend Developer passionate about building scalable applications
-- 💻 Skilled in **Node.js, Express.js, MongoDB**
-- 🔐 Experienced with **JWT Authentication & Authorization**
-- 💳 Integrated **Razorpay Payment Gateway**
-- 📧 Built Email Verification & OTP systems
-- ⚡ Interested in **System Design, DevOps & Microservices**
-- 🌱 Currently learning **Docker, AWS & CI/CD**
-- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+- 💼 Backend Developer passionate about building scalable applications.
+- 🔐 Experienced with Authentication, Authorization, Payment Integration and REST APIs.
+- 📧 Built Email Verification, OTP Authentication and Role-Based Access systems.
+- 💬 Currently exploring advanced backend architecture and scalable system design.
+- 🚀 Always learning by building real-world projects.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
+<p align="left">
+<a href="https://isocpp.org/" title="C++">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+</a>&nbsp;
 
-### Backend
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+</a>&nbsp;
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<a href="https://www.java.com/" title="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+</a>&nbsp;
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,firebase,linux" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,redis,kafka" />
+<a href="https://www.mysql.com/" title="SQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+</a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+### ⚙️ Backend
 
-## 🛒 E-Commerce Backend
+<p align="left">
+<a href="https://nodejs.org/" title="Node.js">
+<img src="https://cdn.simpleicons.org/nodedotjs" width="35"/>
+</a>&nbsp;
 
-- Multi-vendor architecture
-- JWT Authentication
-- Role-Based Authorization
-- Razorpay Integration
-- Email Verification
-- Product Management
-- Cart & Wishlist
-- Orders & Reviews
-- Admin Dashboard APIs
+<a href="https://expressjs.com/" title="Express.js">
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"/>
+</a>&nbsp;
 
-🔗 Repository: https://github.com/YOUR_USERNAME/REPO_NAME
+<a href="https://jwt.io/" title="JWT">
+<img src="https://jwt.io/img/pic_logo.svg" width="35"/>
+</a>&nbsp;
 
----
+<a href="https://socket.io/" title="Socket.IO">
+<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="35"/>
+</a>&nbsp;
 
-## 🎵 Spotify Backend Clone
+<a href="https://www.npmjs.com/package/bcrypt" title="bcrypt">
+<img src="https://cdn.simpleicons.org/bcrypt" width="35"/>
+</a>&nbsp;
 
-- Authentication
-- Playlist APIs
-- Artist APIs
-- Album APIs
-- Search
-- Secure REST APIs
+<a href="https://www.npmjs.com/package/multer" title="Multer">
+<img src="https://cdn.simpleicons.org/npm" width="35"/>
+</a>&nbsp;
 
-🔗 Repository: https://github.com/YOUR_USERNAME/REPO_NAME
-
----
-
-## 💬 Talker Chat Backend
-
-- Real-time Chat
-- Socket.IO
-- Authentication
-- Private Messaging
-- Groups
-- Notifications
-
-🔗 Repository: https://github.com/YOUR_USERNAME/REPO_NAME
-
----
-
-## 📷 Instagram Backend
-
-- Authentication
-- Posts
-- Likes
-- Comments
-- Follow/Unfollow
-- User Profiles
-
-🔗 Repository: https://github.com/YOUR_USERNAME/REPO_NAME
-
----
-
-## 🔐 AuthFlow
-
-Authentication Boilerplate featuring
-
-- JWT
-- Refresh Tokens
-- Email Verification
-- Forgot Password
-- Reset Password
-- Role-Based Access
-
-🔗 Repository: https://github.com/YOUR_USERNAME/AuthFlow
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<a href="https://nodemailer.com/" title="Nodemailer">
+<img src="https://cdn.simpleicons.org/maildotru/FFFFFF" width="35"/>
+</a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 🗄️ Database
 
-<p align="center">
+<p align="left">
+<a href="https://www.mongodb.com/" title="MongoDB">
+<img src="https://cdn.simpleicons.org/mongodb" width="35"/>
+</a>&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<a href="https://mongoosejs.com/" title="Mongoose">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="35"/>
+</a>&nbsp;
 
+<a href="https://www.mysql.com/" title="MySQL">
+<img src="https://cdn.simpleicons.org/mysql" width="35"/>
+</a>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+### ☁️ Cloud & Services
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+<p align="left">
+<a href="https://cloudinary.com/" title="Cloudinary">
+<img src="https://cdn.simpleicons.org/cloudinary" width="35"/>
+</a>&nbsp;
 
----
+<a href="https://razorpay.com/" title="Razorpay">
+<img src="https://cdn.simpleicons.org/razorpay" width="35"/>
+</a>&nbsp;
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
-
+<a href="https://firebase.google.com/" title="Firebase">
+<img src="https://cdn.simpleicons.org/firebase" width="35"/>
+</a>
 </p>
 
 ---
 
-# 📚 Coding Profiles
+### 🛠️ Tools
+
+<p align="left">
+<a href="https://git-scm.com/" title="Git">
+<img src="https://cdn.simpleicons.org/git" width="35"/>
+</a>&nbsp;
+
+<a href="https://github.com/" title="GitHub">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="35"/>
+</a>&nbsp;
+
+<!-- <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+<img src="https://cdn.simpleicons.org/visualstudiocode/" width="35"/>
+</a>&nbsp; -->
+
+<a href="https://www.postman.com/" title="Postman">
+<img src="https://cdn.simpleicons.org/postman" width="35"/>
+</a>&nbsp;
+
+<a href="https://www.linux.org/" title="Linux">
+<img src="https://cdn.simpleicons.org/linux" width="35"/>
+</a>
+</p>
+
+---
+
+### 📦 Package Manager
+
+<p align="left">
+<a href="https://www.npmjs.com/" title="NPM">
+<img src="https://cdn.simpleicons.org/npm" width="35"/>
+</a>
+</p>
+
+---
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Backend
+A complete multi-vendor backend built using **Node.js, Express and MongoDB**. Includes secure JWT authentication, role-based access, seller & buyer modules, product management, cart, wishlist, orders, reviews, email verification and Razorpay payment integration.
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/ecommerce-backend
+
+---
+
+### 🎵 Spotify Backend
+REST API inspired by Spotify featuring user authentication, playlists, albums, artists, favourites, search functionality and scalable backend architecture.
+
+🔗 Repository: https://github.com/YOUR_USERNAME/spotify-backend
+
+---
+
+### 💬 Talker
+Real-time chat backend supporting authentication, private messaging, Socket.IO communication and secure API endpoints.
+
+🔗 Repository: https://github.com/YOUR_USERNAME/talker
+
+---
+
+### 📸 StreetLink
+A social media backend supporting user profiles, posts, likes, comments, follow/unfollow functionality and authentication.
+
+🔗 Repository: https://github.com/YOUR_USERNAME/streetlink
+
+---
+
+## 💻 Coding Profiles
 
 <p align="left">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/DEV_ROHIT01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/user/coderroa6jv/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://codolio.com/profile/DEV_ROHIT02" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1E293B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/coderrohit02" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🧠 Beyond Tech
 
-<p>
+> Interests that shape how I build software, solve problems, and continuously improve.
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/🧩%20Problem%20Solving-4A4A4A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚡%20Backend%20Engineering-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏗️%20System%20Design-6F42C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔒%20API%20Security-DC3545?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🗄️%20Database%20Design-198754?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📈%20Scalable%20Architecture-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠%20Logical%20Thinking-0DCAF0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀%20Continuous%20Learning-20C997?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤝%20Team%20Collaboration-7952B3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💡%20Clean%20Code-6C757D?style=for-the-badge"/>
+
+</p>
+
+
+---
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rohit-bansal-065b552b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:coderrohit02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/WorkRohit02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Dev_Rohit02" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
@@ -213,8 +261,6 @@ Authentication Boilerplate featuring
 
 <div align="center">
 
-### 💡 "Great software isn't just written—it is engineered."
-
-⭐ If you like my work, consider giving my repositories a star!
+*"Code. Learn. Improve. Repeat."*
 
 </div>
