@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋 I'm Rohit Bansal
+# Hi 👋 I'm Rohit Bansal
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Backend+Developer;Node.js+Developer;Express.js+%7C+MongoDB;Building+Secure+REST+APIs;Authentication+%7C+Authorization;Socket.IO+Real-Time+Applications;Payment+Gateway+Integration;Turning+Ideas+Into+Scalable+Backend+Solutions" alt="Typing SVG"/>
