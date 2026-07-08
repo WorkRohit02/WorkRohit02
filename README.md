@@ -27,21 +27,24 @@ Building scalable backend applications with clean architecture and secure REST A
 ### 💻 Languages
 
 <p align="left">
-<a href="https://isocpp.org/" title="C++">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
-</a>&nbsp;
+<a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.mysql.com/" title="SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/></a>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-</a>&nbsp;
+---
 
-<a href="https://www.java.com/" title="Java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-</a>&nbsp;
+### 🎨 Frontend
 
-<a href="https://www.mysql.com/" title="SQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-</a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/></a>&nbsp;
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/></a>&nbsp;
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/></a>&nbsp;
+<a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/></a>&nbsp;
+<a href="https://vitejs.dev/" title="Vite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35"/></a>
 </p>
 
 ---
@@ -49,33 +52,11 @@ Building scalable backend applications with clean architecture and secure REST A
 ### ⚙️ Backend
 
 <p align="left">
-<a href="https://nodejs.org/" title="Node.js">
-<img src="https://cdn.simpleicons.org/nodedotjs" width="35"/>
-</a>&nbsp;
-
-<a href="https://expressjs.com/" title="Express.js">
-<img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"/>
-</a>&nbsp;
-
-<a href="https://jwt.io/" title="JWT">
-<img src="https://jwt.io/img/pic_logo.svg" width="35"/>
-</a>&nbsp;
-
-<a href="https://socket.io/" title="Socket.IO">
-<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="35"/>
-</a>&nbsp;
-
-<a href="https://www.npmjs.com/package/bcrypt" title="bcrypt">
-<img src="https://cdn.simpleicons.org/bcrypt" width="35"/>
-</a>&nbsp;
-
-<a href="https://www.npmjs.com/package/multer" title="Multer">
-<img src="https://cdn.simpleicons.org/npm" width="35"/>
-</a>&nbsp;
-
-<a href="https://nodemailer.com/" title="Nodemailer">
-<img src="https://cdn.simpleicons.org/maildotru/FFFFFF" width="35"/>
-</a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/></a>&nbsp;
+<a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"/></a>&nbsp;
+<a href="https://socket.io/" title="Socket.IO"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="35"/></a>&nbsp;
+<a href="https://jwt.io/" title="JWT"><img src="https://jwt.io/img/pic_logo.svg" width="35"/></a>&nbsp;
+<a href="https://www.npmjs.com/package/bcrypt" title="bcrypt"><img src="https://cdn.simpleicons.org/bcrypt" width="35"/></a>
 </p>
 
 ---
@@ -83,35 +64,19 @@ Building scalable backend applications with clean architecture and secure REST A
 ### 🗄️ Database
 
 <p align="left">
-<a href="https://www.mongodb.com/" title="MongoDB">
-<img src="https://cdn.simpleicons.org/mongodb" width="35"/>
-</a>&nbsp;
-
-<a href="https://mongoosejs.com/" title="Mongoose">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="35"/>
-</a>&nbsp;
-
-<a href="https://www.mysql.com/" title="MySQL">
-<img src="https://cdn.simpleicons.org/mysql" width="35"/>
-</a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/></a>&nbsp;
+<a href="https://mongoosejs.com/" title="Mongoose"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/></a>
 </p>
 
 ---
 
-### ☁️ Cloud & Services
+### ☁️ Services
 
 <p align="left">
-<a href="https://cloudinary.com/" title="Cloudinary">
-<img src="https://cdn.simpleicons.org/cloudinary" width="35"/>
-</a>&nbsp;
-
-<a href="https://razorpay.com/" title="Razorpay">
-<img src="https://cdn.simpleicons.org/razorpay" width="35"/>
-</a>&nbsp;
-
-<a href="https://firebase.google.com/" title="Firebase">
-<img src="https://cdn.simpleicons.org/firebase" width="35"/>
-</a>
+<a href="https://cloudinary.com/" title="Cloudinary"><img src="https://cdn.simpleicons.org/cloudinary" width="35"/></a>&nbsp;
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35"/></a>&nbsp;
+<a href="https://razorpay.com/" title="Razorpay"><img src="https://cdn.simpleicons.org/razorpay" width="35"/></a>
 </p>
 
 ---
@@ -119,38 +84,15 @@ Building scalable backend applications with clean architecture and secure REST A
 ### 🛠️ Tools
 
 <p align="left">
-<a href="https://git-scm.com/" title="Git">
-<img src="https://cdn.simpleicons.org/git" width="35"/>
-</a>&nbsp;
-
-<a href="https://github.com/" title="GitHub">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="35"/>
-</a>&nbsp;
-
-<!-- <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-<img src="https://cdn.simpleicons.org/visualstudiocode/" width="35"/>
-</a>&nbsp; -->
-
-<a href="https://www.postman.com/" title="Postman">
-<img src="https://cdn.simpleicons.org/postman" width="35"/>
-</a>&nbsp;
-
-<a href="https://www.linux.org/" title="Linux">
-<img src="https://cdn.simpleicons.org/linux" width="35"/>
-</a>
+<a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/></a>&nbsp;
+<a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="35"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman" width="35"/></a>&nbsp;
+<a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/></a>&nbsp;
+<a href="https://www.npmjs.com/" title="NPM"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35"/></a>
 </p>
-
 ---
 
-### 📦 Package Manager
-
-<p align="left">
-<a href="https://www.npmjs.com/" title="NPM">
-<img src="https://cdn.simpleicons.org/npm" width="35"/>
-</a>
-</p>
-
----
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Backend
